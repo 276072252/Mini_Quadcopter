@@ -1,0 +1,19 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Sat May 07 13:31:43 2022
+\t (00:00:02)         Host=DESKTOP-80B8J98 User=Administrator Pid=8020 CPUs=8
+\t (00:00:02) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Administrator/Desktop/Quadcopter/PCB/LIB/SMD3225_4P.dra
+\i (00:00:03) trapsize 1553
+\i (00:00:03) trapsize 1473
+\i (00:00:03) trapsize 1567
+\i (00:00:03) trapsize 1961
+\i (00:00:03) trapsize 1961
+\i (00:00:04) generaledit 
+\i (00:00:08) add pin 
+\t (00:00:09) Using 'SR1_4X1_2.pad'.
+\i (00:00:12) exit 
+\t (00:00:12) Exiting from Add Pin.
+\e (00:00:13) Do you want to save the changes you made to SMD3225_4P.dra?
+\i (00:00:14) fillin no 
+\t (00:00:14)     Journal end - Sat May 07 13:31:55 2022

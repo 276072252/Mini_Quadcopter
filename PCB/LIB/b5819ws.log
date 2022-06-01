@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : B5819WS.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Apr 12 14:57:04 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Administrator/Desktop/Quadcopter/PCB/LIB
+    Name      = b5819ws.psm
+    User      = Administrator
+    Machine   = DESKTOP-80B8J98
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

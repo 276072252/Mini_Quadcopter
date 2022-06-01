@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LGA-8.dra                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat May 07 12:41:01 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Administrator/Desktop/Quadcopter/PCB/LIB
+    Name      = lga-8.psm
+    User      = Administrator
+    Machine   = DESKTOP-80B8J98
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

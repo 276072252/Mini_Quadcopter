@@ -1,0 +1,35 @@
+.\out\power.o: ..\DRIVER\src\power.c
+.\out\power.o: ..\IMU\structconfig.h
+.\out\power.o: ..\CMSIS\stm32f10x.h
+.\out\power.o: ..\CMSIS\core_cm3.h
+.\out\power.o: D:\Keil uVison5\ARM\ARMCC\Bin\..\include\stdint.h
+.\out\power.o: ..\CMSIS\system_stm32f10x.h
+.\out\power.o: ..\CMSIS\stm32f10x_conf.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_adc.h
+.\out\power.o: ..\CMSIS\stm32f10x.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_bkp.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_can.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_cec.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_crc.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_dac.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_dbgmcu.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_dma.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_exti.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_flash.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_fsmc.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_i2c.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_iwdg.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_pwr.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_rcc.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_rtc.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_sdio.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_spi.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_tim.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_usart.h
+.\out\power.o: ..\FWLIB\inc\stm32f10x_wwdg.h
+.\out\power.o: ..\FWLIB\inc\misc.h
+.\out\power.o: D:\Keil uVison5\ARM\ARMCC\Bin\..\include\stdio.h
+.\out\power.o: ..\DRIVER\inc\si24r1.h
+.\out\power.o: ..\DRIVER\inc\power.h
+.\out\power.o: ..\IMU\filter.h

@@ -1,0 +1,503 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : HQBrdTmp.brd                                  )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Sun May  8 00:01:21 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < W:/Gerber/2022-05-08/adfc7a8bf2efe4c205e85b00f260adc3/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.11 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains objects with associated DRCs (82).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00709                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.01181                                  DARK 
+  CIRCLE     0.01287                                  DARK 
+  CIRCLE     0.01575                                  DARK 
+  CIRCLE     0.01969                                  DARK 
+  CIRCLE     0.02362                                  DARK 
+  CIRCLE     0.03100                                  DARK 
+  CIRCLE     0.03200                                  DARK 
+  CIRCLE     0.04724                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06299                                  DARK 
+  SQUARE     0.01575                     0.000 NO     DARK 
+  SQUARE     0.02362                     0.000 NO     DARK 
+  SQUARE     0.02362                    45.000 NO     DARK 
+  SQUARE     0.03150                     0.000 NO     DARK 
+  SQUARE     0.04724                    45.000 NO     DARK 
+  SQUARE     0.05906                     0.000 NO     DARK 
+  SQUARE     0.05906                    45.000 NO     DARK 
+  SQUARE     0.07087                     0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.03150      45.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.03150     135.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.03346      90.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.04724       0.000 NO     DARK 
+  RECTANGLE  0.07874     x 0.03937      45.000 NO     DARK 
+  RECTANGLE  0.07874     x 0.03937     135.000 NO     DARK 
+  RECTANGLE  0.07874     x 0.04724      90.000 NO     DARK 
+  RECTANGLE  0.08661     x 0.22520       0.000 NO     DARK 
+  RECTANGLE  0.10236     x 0.10236       0.000 NO     DARK 
+  OBLONG     0.05512     x 0.08661      90.000 NO     DARK 
+  PAD SHAPE  PS_2_IRREG                  0.000 NO     DARK 
+  PAD SHAPE  PS_R84_26_D250              0.000 NO     DARK 
+  PAD SHAPE  PS_R81_26_D250              0.000 NO     DARK 
+  PAD SHAPE  PS_R81_26_D250             90.000 NO     DARK 
+  PAD SHAPE  PS_R84_26_D250             90.000 NO     DARK 
+  PAD SHAPE  PS_R156_28_D500           180.000 NO     DARK 
+  PAD SHAPE  PS_R28_156_D500           180.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < 2GND >
+     TO FILE < W:/Gerber/2022-05-08/adfc7a8bf2efe4c205e85b00f260adc3/2GND.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.11 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains objects with associated DRCs (34).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01181                                  DARK 
+  CIRCLE     0.01287                                  DARK 
+  CIRCLE     0.01575                                  DARK 
+  CIRCLE     0.02362                                  DARK 
+  CIRCLE     0.03100                                  DARK 
+  CIRCLE     0.03200                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06299                                  DARK 
+  SQUARE     0.05906                     0.000 NO     DARK 
+  SQUARE     0.05906                    45.000 NO     DARK 
+  OBLONG     0.05512     x 0.08661      90.000 NO     DARK 
+
+     2GND created with warnings
+
+
+================================================================
+     PROCESSING FILM < 3POWER >
+     TO FILE < W:/Gerber/2022-05-08/adfc7a8bf2efe4c205e85b00f260adc3/3POWER.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.11 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains objects with associated DRCs (38).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.01287                                  DARK 
+  CIRCLE     0.02362                                  DARK 
+  CIRCLE     0.03100                                  DARK 
+  CIRCLE     0.03200                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06299                                  DARK 
+  SQUARE     0.05906                     0.000 NO     DARK 
+  SQUARE     0.05906                    45.000 NO     DARK 
+  OBLONG     0.05512     x 0.08661      90.000 NO     DARK 
+
+     3POWER created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < W:/Gerber/2022-05-08/adfc7a8bf2efe4c205e85b00f260adc3/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.11 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains objects with associated DRCs (33).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.01287                                  DARK 
+  CIRCLE     0.03100                                  DARK 
+  CIRCLE     0.03200                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06299                                  DARK 
+  SQUARE     0.05906                     0.000 NO     DARK 
+  SQUARE     0.05906                    45.000 NO     DARK 
+  OBLONG     0.05512     x 0.08661      90.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTETOP >
+     TO FILE < W:/Gerber/2022-05-08/adfc7a8bf2efe4c205e85b00f260adc3/PASTETOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.11 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (860.94 1194.58) in MIL
+           ... using undefined line width of 0.11 MIL
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.11 MIL
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00011                                  DARK 
+  RECTANGLE  0.03937     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.06457     x 0.06457       0.000 NO     DARK 
+  PAD SHAPE  PS_R84_26_D250              0.000 NO     DARK 
+  PAD SHAPE  PS_R81_26_D250              0.000 NO     DARK 
+  PAD SHAPE  PS_2_IRREG_PASTE            0.000 NO     DARK 
+  PAD SHAPE  PS_R81_26_D250             90.000 NO     DARK 
+  PAD SHAPE  PS_R84_26_D250             90.000 NO     DARK 
+  PAD SHAPE  PS_R28_156_D500           180.000 NO     DARK 
+  PAD SHAPE  PS_R156_28_D500           180.000 NO     DARK 
+
+     PASTETOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < MASKTOP >
+     TO FILE < W:/Gerber/2022-05-08/adfc7a8bf2efe4c205e85b00f260adc3/MASKTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.11 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00011                                  DARK 
+  CIRCLE     0.05118                                  DARK 
+  CIRCLE     0.06299                                  DARK 
+  CIRCLE     0.06693                                  DARK 
+  SQUARE     0.01772                     0.000 NO     DARK 
+  SQUARE     0.02756                     0.000 NO     DARK 
+  SQUARE     0.02756                    45.000 NO     DARK 
+  SQUARE     0.03543                     0.000 NO     DARK 
+  SQUARE     0.05118                    45.000 NO     DARK 
+  SQUARE     0.06299                     0.000 NO     DARK 
+  SQUARE     0.06299                    45.000 NO     DARK 
+  SQUARE     0.07480                     0.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.03543      45.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.03543     135.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03740      90.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.06693       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.02756       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.05118       0.000 NO     DARK 
+  RECTANGLE  0.08268     x 0.04331      45.000 NO     DARK 
+  RECTANGLE  0.08268     x 0.04331     135.000 NO     DARK 
+  RECTANGLE  0.08268     x 0.05118      90.000 NO     DARK 
+  RECTANGLE  0.09055     x 0.22913       0.000 NO     DARK 
+  RECTANGLE  0.10236     x 0.10236       0.000 NO     DARK 
+  OBLONG     0.05906     x 0.09055      90.000 NO     DARK 
+  PAD SHAPE  PS_2_IRREG_MASK             0.000 NO     DARK 
+  PAD SHAPE  PS_R81_26_D250              0.000 NO     DARK 
+  PAD SHAPE  PS_R84_26_D250              0.000 NO     DARK 
+  PAD SHAPE  PS_R81_26_D250             90.000 NO     DARK 
+  PAD SHAPE  PS_R84_26_D250             90.000 NO     DARK 
+  PAD SHAPE  PS_R28_156_D500           180.000 NO     DARK 
+  PAD SHAPE  PS_R156_28_D500           180.000 NO     DARK 
+
+     MASKTOP created.
+
+
+================================================================
+     PROCESSING FILM < SIKTOP >
+     TO FILE < W:/Gerber/2022-05-08/adfc7a8bf2efe4c205e85b00f260adc3/SIKTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.11 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (1100.01 4121.27) in MIL
+           ... using undefined line width of 0.11 MIL
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.11 MIL
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00011                                  DARK 
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+
+     SIKTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTEBOTTOM >
+     TO FILE < W:/Gerber/2022-05-08/adfc7a8bf2efe4c205e85b00f260adc3/PASTEBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.11 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00011                                  DARK 
+
+     PASTEBOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < MASKBOTTOM >
+     TO FILE < W:/Gerber/2022-05-08/adfc7a8bf2efe4c205e85b00f260adc3/MASKBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.11 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00011                                  DARK 
+  CIRCLE     0.06299                                  DARK 
+  CIRCLE     0.06693                                  DARK 
+  OBLONG     0.05906     x 0.09055      90.000 NO     DARK 
+
+     MASKBOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SIKBOTTOM >
+     TO FILE < W:/Gerber/2022-05-08/adfc7a8bf2efe4c205e85b00f260adc3/SIKBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.11 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00011                                  DARK 
+
+     SIKBOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < W:/Gerber/2022-05-08/adfc7a8bf2efe4c205e85b00f260adc3/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.11 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00011                                  DARK 
+
+     OUTLINE created.
+
+
+================================================================
+     PROCESSING FILM < FABPTH >
+     TO FILE < W:/Gerber/2022-05-08/adfc7a8bf2efe4c205e85b00f260adc3/FABPTH.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.11 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00011                                  DARK 
+
+     FABPTH created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        2GND created with warnings
+        3POWER created with warnings
+        BOTTOM created with warnings
+        PASTETOP created with warnings
+        MASKTOP created.
+        SIKTOP created with warnings
+        PASTEBOTTOM created.
+        MASKBOTTOM created.
+        SIKBOTTOM created.
+        OUTLINE created.
+        FABPTH created.
+
+ ARTWORK had warnings

@@ -1,0 +1,55 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : 5050.dra                                      )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Apr 21 15:03:46 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Apr 21 15:03:46 2022				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design = 'C:/Users/Administrator/Desktop/Quadcopter/PCB/LIB/5050.dra'
+Output design = ''
+Reset symbol text and size locations = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/Users/Administrator/Desktop/Quadcopter/PCB/LIB/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SR2X1'  pad stack refresh starting.
+
+     'SR2X1'  pad stack refreshed successfully.
+     
+'SR2X1'  pad stack refresh starting.
+
+     'SR2X1'  pad stack refreshed successfully.
+     
+'SR2X1'  pad stack refresh starting.
+
+     'SR2X1'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

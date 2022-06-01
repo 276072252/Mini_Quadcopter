@@ -1,0 +1,73 @@
+\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Wed Jun 01 13:10:04 2022
+\t (00:00:03)         Host=DESKTOP-80B8J98 User=Administrator Pid=4932 CPUs=8
+\t (00:00:03) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Database opened: C:/Users/Administrator/Desktop/Mini_Quadcopter/PCB/Quadcopter.brd
+\i (00:00:05) trapsize 2655
+\i (00:00:05) trapsize 2603
+\i (00:00:05) trapsize 2664
+\i (00:00:05) trapsize 2688
+\i (00:00:05) trapsize 2818
+\i (00:00:05) trapsize 2818
+\i (00:00:06) generaledit 
+\i (00:00:07) zoom out 0.400000 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -0.3582 8.2144 0.4
+\i (00:00:07) trapsize 3945
+\i (00:00:07) zoom out 0.400000 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -0.2792 7.9777 0.4
+\i (00:00:07) trapsize 5523
+\i (00:00:07) zoom out 0.400000 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 0.0522 7.8672 0.4
+\i (00:00:07) trapsize 7733
+\i (00:00:07) zoom out 0.400000 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 0.4808 7.8673 0.4
+\i (00:00:07) trapsize 10826
+\i (00:00:07) zoom out 0.400000 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 60.6731 7.8674 0.4
+\i (00:00:07) trapsize 15156
+\i (00:00:08) zoom in 0.400000 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -5.4085 26.3581 0.4
+\i (00:00:08) trapsize 10826
+\i (00:00:08) zoom in 0.400000 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -46.7204 26.3581 0.4
+\i (00:00:08) trapsize 7733
+\i (00:00:09) setwindow form.vf_vis
+\i (00:00:09) FORM vf_vis all_etch_visible YES 
+\i (00:00:10) FORM vf_vis all_etch_visible NO 
+\i (00:00:11) FORM vf_vis 2 etch_colorvisible 1 
+\i (00:00:12) FORM vf_vis 2 etch_colorvisible 0 
+\i (00:00:13) FORM vf_vis 1 etch_colorvisible 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 0.400000 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 8.8013 4.7062 0.4
+\i (00:00:14) trapsize 5523
+\i (00:00:14) zoom in 0.400000 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 9.2432 4.5958 0.4
+\i (00:00:14) trapsize 3945
+\i (00:00:16) zoom out 0.400000 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 26.8394 8.0678 0.4
+\i (00:00:16) trapsize 5523
+\i (00:00:16) zoom out 0.400000 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 26.5079 8.5096 0.4
+\i (00:00:16) trapsize 7733
+\i (00:00:16) zoom out 0.400000 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 26.5079 8.5097 0.4
+\i (00:00:16) trapsize 10826
+\i (00:00:17) prepopup 42.2690 3.3133
+\i (00:00:17) pick grid 69.3339 15.6549
+\t (00:00:17) last pick:  69.3300  15.6500
+\i (00:00:19) exit 
+\t (00:00:19)     Journal end - Wed Jun 01 13:10:20 2022

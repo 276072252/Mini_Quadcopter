@@ -1,0 +1,21 @@
+{ Using PSTWRITER 16.6.0 d001May-07-2022 at 16:28:17 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.3" ignored for U1: SCHEMATIC1, 1MCU (3.80, 1.00). Connecting pin to net "LED_USER".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.46" ignored for U1: SCHEMATIC1, 1MCU (3.80, 1.00). Connecting pin to net "LED_RGB".
+#3 WARNING(ORCAP-36006): Part Name "INDUCTOR_SMD6X6_1255AY-4R7M=P3/4.7UH_4A" is renamed to "INDUCTOR_SMD6X6_1255AY-4R7M=P3/".
+#4 WARNING(ORCAP-36006): Part Name "STM32F103C8T6_2_QFP50P900X900X160-48N_STM32F103C8T6" is renamed to "STM32F103C8T6_2_QFP50P900X900X1".
+#5 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#23" as visible power pin of same name already exists in Package STM32F103C8T6_2 , U1: SCHEMATIC1, 1MCU (3.80, 1.00).
+#6 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#35" as visible power pin of same name already exists in Package STM32F103C8T6_2 , U1: SCHEMATIC1, 1MCU (3.80, 1.00).
+#7 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#47" as visible power pin of same name already exists in Package STM32F103C8T6_2 , U1: SCHEMATIC1, 1MCU (3.80, 1.00).
+#8 WARNING(ORCAP-36006): Part Name "MPU6050_0_QFN50P400X400X90-24N_MPU6050" is renamed to "MPU6050_0_QFN50P400X400X90-24N_".
+#9 WARNING(ORCAP-36006): Part Name "SI24R1_QFN50P400X400X90-20N_SI24R1" is renamed to "SI24R1_QFN50P400X400X90-20N_SI2".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\ADMINISTRATOR\DESKTOP\QUADCOPTER\SCH\allegro/pstchip.dat
+
+Loading... C:\USERS\ADMINISTRATOR\DESKTOP\QUADCOPTER\SCH\allegro/pstchip.dat
+
+Loading... C:\USERS\ADMINISTRATOR\DESKTOP\QUADCOPTER\SCH\allegro/pstxprt.dat
+
+Loading... C:\USERS\ADMINISTRATOR\DESKTOP\QUADCOPTER\SCH\allegro/pstxnet.dat
+packaging the design view...

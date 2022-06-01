@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC-D-356                                                        )
+(                                                                     )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Sun May  8 00:01:25 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Warning: String S_R84_26D2M84_26P84_26 exceeds record length on line 45 at column 0
+Warning: String S_R260_260M260_260P164_164 exceeds record length on line 47 at column 0
+Warning: String S_R81_26D2M81_26P81_26 exceeds record length on line 48 at column 0
+Warning: String S_R100T150M100_150P100_150 exceeds record length on line 51 at column 0
+Warning: String S_R28T156D5M28_156P28_156 exceeds record length on line 52 at column 0
+Warning: String S_R156T28D5M28_156P28_156 exceeds record length on line 53 at column 0
+
+
+------------------------------------------
+SUMMARY:
+  Errors:       0
+  Warnings:     6

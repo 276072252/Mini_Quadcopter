@@ -1,0 +1,1100 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001May-07-2022 at 14:44:12 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='QUADCOPTOR';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_C0402_20PF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS2667@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins2667@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins2667@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS6008@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins6008@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins6008@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS27031@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins27031@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins27031@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_C0402_22UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS8040@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins8040@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins8040@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS27106@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins27106@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins27106@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_C0402_22UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS29544@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins29544@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins29544@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_C0402_22UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS29734@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins29734@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins29734@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_C0402_15PF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS7298@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins7298@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins7298@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS17396@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins17396@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins17396@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS17726@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins17726@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins17726@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS18079@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins18079@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins18079@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_C0402_20PF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS2683@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins2683@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins2683@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS18444@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins18444@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins18444@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS36112@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins36112@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins36112@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS13995@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins13995@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins13995@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_C0402_10NF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS14021@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins14021@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins14021@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_C0402_2.2NF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS14548@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins14548@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins14548@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS14574@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins14574@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins14574@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS31440@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins31440@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins31440@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS31466@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins31466@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins31466@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_C0402_1NF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS31492@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins31492@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins31492@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_C0402_1.5PF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS32104@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins32104@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins32104@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS107071@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins107071@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins107071@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_C0402_1PF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS32134@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins32134@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins32134@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_C0402_2.2NF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS31760@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins31760@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins31760@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_C0402_4.7PF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS31776@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins31776@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins31776@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_C0402_10PF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS31075@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins31075@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins31075@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_C0402_10PF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS31091@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins31091@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins31091@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS125248@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins125248@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins125248@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_C0402_33NF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS128485@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins128485@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins128485@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS1619@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins1619@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins1619@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS25683@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins25683@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins25683@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS25719@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins25719@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins25719@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS25745@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins25745@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins25745@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS25771@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins25771@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins25771@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS25797@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins25797@discrete.\cap np.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins25797@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'SS14_SMA_SS14':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS7071@LIB.SS14.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins7071@lib.\ss14.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins7071@lib.\ss14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'LED_LED_0603_LED':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS12003@LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins12003@lib.\led.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins12003@lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'LED_LED_0603_LED':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS13160@LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins13160@lib.\led.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins13160@lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'LED_LED_0603_LED':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS44504@LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins44504@lib.\led.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins44504@lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'B5819WS_SOD-323_B5819WS':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS107284@LIB.B5819WS.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins107284@lib.\b5819ws.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins107284@lib.\b5819ws.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'B5819WS_SOD-323_B5819WS':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS107653@LIB.B5819WS.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins107653@lib.\b5819ws.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins107653@lib.\b5819ws.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'B5819WS_SOD-323_B5819WS':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS107969@LIB.B5819WS.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins107969@lib.\b5819ws.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins107969@lib.\b5819ws.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'B5819WS_SOD-323_B5819WS':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS107868@LIB.B5819WS.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins107868@lib.\b5819ws.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins107868@lib.\b5819ws.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'RGB_5050_RGB':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS44681@LIB.RGB.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins44681@lib.\rgb.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins44681@lib.\rgb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'RGB_5050_RGB':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS44715@LIB.RGB.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins44715@lib.\rgb.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins44715@lib.\rgb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'RGB_5050_RGB':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS44749@LIB.RGB.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins44749@lib.\rgb.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins44749@lib.\rgb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'RGB_5050_RGB':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS44783@LIB.RGB.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins44783@lib.\rgb.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins44783@lib.\rgb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ E1 'ANT_ANT_ANT_CA_C03':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS32218@LIB.ANT.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins32218@lib.\ant.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins32218@lib.\ant.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_SMD6X6_1255AY-4R7M=P3/':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS6510@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins6510@discrete.\inductor.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins6510@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_L_0603_3.9NH':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS31646@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins31646@discrete.\inductor.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins31646@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_L_0603_8.2NH':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS31630@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins31630@discrete.\inductor.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins31630@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_L_0603_2.7NH':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS31662@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins31662@discrete.\inductor.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins31662@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M1 'MOTER_0_MOTOR_M_720':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS41828@QUADCOPTOR.MOTER_0.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins41828@quadcoptor.\moter_0.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins41828@quadcoptor.\moter_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M2 'MOTER_0_MOTOR_M_720':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS42097@QUADCOPTOR.MOTER_0.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins42097@quadcoptor.\moter_0.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins42097@quadcoptor.\moter_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M3 'MOTER_0_MOTOR_M_720':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS42116@QUADCOPTOR.MOTER_0.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins42116@quadcoptor.\moter_0.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins42116@quadcoptor.\moter_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M4 'MOTER_0_MOTOR_M_720':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS42135@QUADCOPTOR.MOTER_0.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins42135@quadcoptor.\moter_0.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins42135@quadcoptor.\moter_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'BOOT_HDR1X3_BOOT':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS3450@LIB.BOOT.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins3450@lib.\boot.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins3450@lib.\boot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P2 'SWD_HDR1X5_SWD':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS3965@LIB.SWD.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins3965@lib.\swd.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins3965@lib.\swd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P3 'USART_HDR1X4_USART2':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS4294@LIB.USART.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins4294@lib.\usart.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins4294@lib.\usart.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P4 'USART_HDR1X4_USART3':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS42776@LIB.USART.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins42776@lib.\usart.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins42776@lib.\usart.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P5 'HEADER_5P_HDR1X5_HEADER_5P':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS5092@LIB.HEADER_5P.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins5092@lib.\header_5p.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins5092@lib.\header_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P6 'HEADER_5P_HDR1X5_HEADER_5P':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS5114@LIB.HEADER_5P.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins5114@lib.\header_5p.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins5114@lib.\header_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P7 '2P_HDR1X2_BAT':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS5814@LIB.2P.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins5814@lib.\2p.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins5814@lib.\2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'SI2302_SOT-23-3_SI2302':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS10090@LIB.SI2302.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins10090@lib.\si2302.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins10090@lib.\si2302.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'SI2302_SOT-23-3_SI2302':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS17788@LIB.SI2302.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins17788@lib.\si2302.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins17788@lib.\si2302.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'SI2302_SOT-23-3_SI2302':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS18141@LIB.SI2302.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins18141@lib.\si2302.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins18141@lib.\si2302.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'SI2302_SOT-23-3_SI2302':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS18506@LIB.SI2302.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins18506@lib.\si2302.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins18506@lib.\si2302.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS1789@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins1789@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins1789@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_R0402_0R,1%':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS8349@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins8349@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins8349@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_R0402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS7185@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins7185@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins7185@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_R0402_0R,1%':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS114363@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins114363@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins114363@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS17302@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins17302@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins17302@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS17706@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins17706@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins17706@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS18059@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins18059@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins18059@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS18424@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins18424@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins18424@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS10177@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins10177@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins10177@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS17822@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins17822@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins17822@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS18175@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins18175@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins18175@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS3860@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins3860@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins3860@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS18540@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins18540@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins18540@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_R0402_330':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS12046@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins12046@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins12046@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_R0402_330':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS13186@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins13186@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins13186@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_R0402_330':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS44520@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins44520@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins44520@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS13579@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins13579@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins13579@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS13595@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins13595@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins13595@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_R0402_0':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS31249@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins31249@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins31249@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_R0402_0':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS31358@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins31358@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins31358@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_R0402_22K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS32572@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins32572@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins32572@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS3645@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins3645@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins3645@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_R0402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS5967@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins5967@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins5967@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_R0402_0R,1%':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS8166@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins8166@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins8166@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_R0402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS5983@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins5983@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins5983@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS6535@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins6535@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins6535@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_R0402_0R,1%':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS8323@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins8323@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins8323@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_R0402_73.2K,,1%':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS7159@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins7159@discrete.\r.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins7159@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S1 'SWITCH_3P_SWITCH_SK12D07VG3':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS5869@LIB.SWITCH_3P.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins5869@lib.\switch_3p.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins5869@lib.\switch_3p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 'TEST_TEST_TEST':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS41536@LIB.TEST.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins41536@lib.\test.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins41536@lib.\test.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T2 'TEST_TEST_TEST':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS41578@LIB.TEST.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins41578@lib.\test.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins41578@lib.\test.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T3 'TEST_TEST_TEST':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS41625@LIB.TEST.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins41625@lib.\test.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins41625@lib.\test.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T4 'TEST_TEST_TEST':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS41664@LIB.TEST.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins41664@lib.\test.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins41664@lib.\test.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM32F103C8T6_2_QFP50P900X900X1':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS132@QUADCOPTOR.STM32F103C8T6_2.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins132@quadcoptor.\stm32f103c8t6_2.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins132@quadcoptor.\stm32f103c8t6_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'HT7833_1_SOT89_HT7833':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS7503@QUADCOPTOR.HT7833_1.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins7503@quadcoptor.\ht7833_1.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins7503@quadcoptor.\ht7833_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'SX1308_SOT23-6_SX1308':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS6374@LIB.SX1308.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins6374@lib.\sx1308.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page2_ins6374@lib.\sx1308.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'MPU6050_0_QFN50P400X400X90-24N_':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS13450@QUADCOPTOR.MPU6050_0.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins13450@quadcoptor.\mpu6050_0.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins13450@quadcoptor.\mpu6050_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'FBM320_LGA-8_FBM320':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS35215@LIB.FBM320.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins35215@lib.\fbm320.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page3_ins35215@lib.\fbm320.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'SI24R1_QFN50P400X400X90-20N_SI2':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS30569@LIB.SI24R1.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins30569@lib.\si24r1.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins30569@lib.\si24r1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'OSC_SMD5032_4P_RH08000474_8M':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS65260@LIB.OSC.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins65260@lib.\osc.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page1_ins65260@lib.\osc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'OSC_SMD3225_4P_OSC_16M':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTOR.SCHEMATIC1(SCH_1):INS30998@LIB.OSC.NORMAL(CHIPS)':
+ C_PATH='@quadcoptor.schematic1(sch_1):ins30998@lib.\osc.normal\(chips)',
+ P_PATH='@quadcoptor.schematic1(sch_1):page4_ins30998@lib.\osc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

@@ -1,0 +1,109 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_TERM_IDENT!
+J!C:/Users/Administrator/Desktop/Quadcopter/PCB/Quadcopter.brd!Sat Apr 16 10:26:15 2022!-150.0000!-150.0000!150.0000!150.0000!0.0001!millimeters!QUADCOPTOR!28.800000 mil!4!OUT OF DATE!
+S!@quadcoptor.schematic1(sch_1):ins107653@lib.\b5819ws.normal\(chips)!B5819WS_SOD-323_B5819WS!D10!.\pstchip.dat!!!!!!F71!!!!
+S!@quadcoptor.schematic1(sch_1):ins107868@lib.\b5819ws.normal\(chips)!B5819WS_SOD-323_B5819WS!D11!.\pstchip.dat!!!!!!F70!!!!
+S!@quadcoptor.schematic1(sch_1):ins107969@lib.\b5819ws.normal\(chips)!B5819WS_SOD-323_B5819WS!D12!.\pstchip.dat!!!!!!F69!!!!
+S!@quadcoptor.schematic1(sch_1):ins107284@lib.\b5819ws.normal\(chips)!B5819WS_SOD-323_B5819WS!D9!.\pstchip.dat!!!!!!F68!!!!
+S!@quadcoptor.schematic1(sch_1):ins2667@discrete.\cap np.normal\(chips)!CAP NP_C0402_20PF!C1!.\pstchip.dat!!!!!!F106!!!!
+S!@quadcoptor.schematic1(sch_1):ins2683@discrete.\cap np.normal\(chips)!CAP NP_C0402_20PF!C2!.\pstchip.dat!!!!!!F105!!!!
+S!@quadcoptor.schematic1(sch_1):ins27031@discrete.\cap np.normal\(chips)!CAP NP_C0402_1UF!C10!.\pstchip.dat!!!!!!F104!!!!
+S!@quadcoptor.schematic1(sch_1):ins1619@discrete.\cap np.normal\(chips)!CAP NP_C0402_1UF!C3!.\pstchip.dat!!!!!!F103!!!!
+S!@quadcoptor.schematic1(sch_1):ins25683@discrete.\cap np.normal\(chips)!CAP NP_C0402_1UF!C4!.\pstchip.dat!!!!!!F102!!!!
+S!@quadcoptor.schematic1(sch_1):ins8040@discrete.\cap np.normal\(chips)!CAP NP_C0402_22UF!C11!.\pstchip.dat!!!!!!F101!!!!
+S!@quadcoptor.schematic1(sch_1):ins29544@discrete.\cap np.normal\(chips)!CAP NP_C0402_22UF!C13!.\pstchip.dat!!!!!!F100!!!!
+S!@quadcoptor.schematic1(sch_1):ins29734@discrete.\cap np.normal\(chips)!CAP NP_C0402_22UF!C14!.\pstchip.dat!!!!!!F99!!!!
+S!@quadcoptor.schematic1(sch_1):ins107071@discrete.\cap np.normal\(chips)!CAP NP_C0402_0.1UF!C34!.\pstchip.dat!!!!!!F93!!!!
+S!@quadcoptor.schematic1(sch_1):ins27106@discrete.\cap np.normal\(chips)!CAP NP_C0402_0.1UF!C12!.\pstchip.dat!!!!!!F98!!!!
+S!@quadcoptor.schematic1(sch_1):ins36112@discrete.\cap np.normal\(chips)!CAP NP_C0402_0.1UF!C20!.\pstchip.dat!!!!!!F97!!!!
+S!@quadcoptor.schematic1(sch_1):ins13995@discrete.\cap np.normal\(chips)!CAP NP_C0402_0.1UF!C21!.\pstchip.dat!!!!!!F96!!!!
+S!@quadcoptor.schematic1(sch_1):ins14574@discrete.\cap np.normal\(chips)!CAP NP_C0402_0.1UF!C24!.\pstchip.dat!!!!!!F95!!!!
+S!@quadcoptor.schematic1(sch_1):ins31466@discrete.\cap np.normal\(chips)!CAP NP_C0402_0.1UF!C26!.\pstchip.dat!!!!!!F94!!!!
+S!@quadcoptor.schematic1(sch_1):ins25719@discrete.\cap np.normal\(chips)!CAP NP_C0402_0.1UF!C5!.\pstchip.dat!!!!!!F92!!!!
+S!@quadcoptor.schematic1(sch_1):ins25745@discrete.\cap np.normal\(chips)!CAP NP_C0402_0.1UF!C6!.\pstchip.dat!!!!!!F91!!!!
+S!@quadcoptor.schematic1(sch_1):ins25771@discrete.\cap np.normal\(chips)!CAP NP_C0402_0.1UF!C7!.\pstchip.dat!!!!!!F90!!!!
+S!@quadcoptor.schematic1(sch_1):ins25797@discrete.\cap np.normal\(chips)!CAP NP_C0402_0.1UF!C8!.\pstchip.dat!!!!!!F89!!!!
+S!@quadcoptor.schematic1(sch_1):ins6008@discrete.\cap np.normal\(chips)!CAP NP_C0402_0.1UF!C9!.\pstchip.dat!!!!!!F88!!!!
+S!@quadcoptor.schematic1(sch_1):ins7298@discrete.\cap np.normal\(chips)!CAP NP_C0402_15PF!C15!.\pstchip.dat!!!!!!F87!!!!
+S!@quadcoptor.schematic1(sch_1):ins17396@discrete.\cap np.normal\(chips)!CAP NP_C0402_4.7UF!C16!.\pstchip.dat!!!!!!F86!!!!
+S!@quadcoptor.schematic1(sch_1):ins17726@discrete.\cap np.normal\(chips)!CAP NP_C0402_4.7UF!C17!.\pstchip.dat!!!!!!F85!!!!
+S!@quadcoptor.schematic1(sch_1):ins18079@discrete.\cap np.normal\(chips)!CAP NP_C0402_4.7UF!C18!.\pstchip.dat!!!!!!F84!!!!
+S!@quadcoptor.schematic1(sch_1):ins18444@discrete.\cap np.normal\(chips)!CAP NP_C0402_4.7UF!C19!.\pstchip.dat!!!!!!F83!!!!
+S!@quadcoptor.schematic1(sch_1):ins31440@discrete.\cap np.normal\(chips)!CAP NP_C0402_4.7UF!C25!.\pstchip.dat!!!!!!F82!!!!
+S!@quadcoptor.schematic1(sch_1):ins14021@discrete.\cap np.normal\(chips)!CAP NP_C0402_10NF!C22!.\pstchip.dat!!!!!!F81!!!!
+S!@quadcoptor.schematic1(sch_1):ins14548@discrete.\cap np.normal\(chips)!CAP NP_C0402_2.2NF!C23!.\pstchip.dat!!!!!!F80!!!!
+S!@quadcoptor.schematic1(sch_1):ins31760@discrete.\cap np.normal\(chips)!CAP NP_C0402_2.2NF!C30!.\pstchip.dat!!!!!!F79!!!!
+S!@quadcoptor.schematic1(sch_1):ins31492@discrete.\cap np.normal\(chips)!CAP NP_C0402_1NF!C27!.\pstchip.dat!!!!!!F78!!!!
+S!@quadcoptor.schematic1(sch_1):ins32104@discrete.\cap np.normal\(chips)!CAP NP_C0402_1.5PF!C28!.\pstchip.dat!!!!!!F77!!!!
+S!@quadcoptor.schematic1(sch_1):ins32134@discrete.\cap np.normal\(chips)!CAP NP_C0402_1PF!C29!.\pstchip.dat!!!!!!F76!!!!
+S!@quadcoptor.schematic1(sch_1):ins31776@discrete.\cap np.normal\(chips)!CAP NP_C0402_4.7PF!C31!.\pstchip.dat!!!!!!F75!!!!
+S!@quadcoptor.schematic1(sch_1):ins31075@discrete.\cap np.normal\(chips)!CAP NP_C0402_10PF!C32!.\pstchip.dat!!!!!!F74!!!!
+S!@quadcoptor.schematic1(sch_1):ins31091@discrete.\cap np.normal\(chips)!CAP NP_C0402_10PF!C33!.\pstchip.dat!!!!!!F73!!!!
+S!@quadcoptor.schematic1(sch_1):ins7071@lib.\ss14.normal\(chips)!SS14_SMA_SS14!D1!.\pstchip.dat!!!!!!F72!!!!
+S!@quadcoptor.schematic1(sch_1):ins44681@lib.\rgb.normal\(chips)!RGB_5050_RGB!D2!.\pstchip.dat!!!!!!F67!!!!
+S!@quadcoptor.schematic1(sch_1):ins44715@lib.\rgb.normal\(chips)!RGB_5050_RGB!D3!.\pstchip.dat!!!!!!F66!!!!
+S!@quadcoptor.schematic1(sch_1):ins44749@lib.\rgb.normal\(chips)!RGB_5050_RGB!D4!.\pstchip.dat!!!!!!F65!!!!
+S!@quadcoptor.schematic1(sch_1):ins44783@lib.\rgb.normal\(chips)!RGB_5050_RGB!D5!.\pstchip.dat!!!!!!F64!!!!
+S!@quadcoptor.schematic1(sch_1):ins12003@lib.\led.normal\(chips)!LED_LED_0603_LED!D6!.\pstchip.dat!!!!!!F63!!!!
+S!@quadcoptor.schematic1(sch_1):ins13160@lib.\led.normal\(chips)!LED_LED_0603_LED!D7!.\pstchip.dat!!!!!!F62!!!!
+S!@quadcoptor.schematic1(sch_1):ins44504@lib.\led.normal\(chips)!LED_LED_0603_LED!D8!.\pstchip.dat!!!!!!F61!!!!
+S!@quadcoptor.schematic1(sch_1):ins32218@lib.\ant.normal\(chips)!ANT_ANT_ANT_CA_C03!E1!.\pstchip.dat!!!!!!F60!!!!
+S!@quadcoptor.schematic1(sch_1):ins6510@discrete.\inductor.normal\(chips)!INDUCTOR_SMD6X6_1255AY-4R7M=P3/!L1!.\pstchip.dat!!!!!!F59!!!!
+S!@quadcoptor.schematic1(sch_1):ins31646@discrete.\inductor.normal\(chips)!INDUCTOR_L_0603_3.9NH!L2!.\pstchip.dat!!!!!!F58!!!!
+S!@quadcoptor.schematic1(sch_1):ins31630@discrete.\inductor.normal\(chips)!INDUCTOR_L_0603_8.2NH!L3!.\pstchip.dat!!!!!!F57!!!!
+S!@quadcoptor.schematic1(sch_1):ins31662@discrete.\inductor.normal\(chips)!INDUCTOR_L_0603_2.7NH!L4!.\pstchip.dat!!!!!!F56!!!!
+S!@quadcoptor.schematic1(sch_1):ins41828@quadcoptor.\moter_0.normal\(chips)!MOTER_0_MOTOR_M_720!M1!.\pstchip.dat!!!!!!F55!!!!
+S!@quadcoptor.schematic1(sch_1):ins42097@quadcoptor.\moter_0.normal\(chips)!MOTER_0_MOTOR_M_720!M2!.\pstchip.dat!!!!!!F54!!!!
+S!@quadcoptor.schematic1(sch_1):ins42116@quadcoptor.\moter_0.normal\(chips)!MOTER_0_MOTOR_M_720!M3!.\pstchip.dat!!!!!!F53!!!!
+S!@quadcoptor.schematic1(sch_1):ins42135@quadcoptor.\moter_0.normal\(chips)!MOTER_0_MOTOR_M_720!M4!.\pstchip.dat!!!!!!F52!!!!
+S!@quadcoptor.schematic1(sch_1):ins3450@lib.\boot.normal\(chips)!BOOT_HDR1X3_BOOT!P1!.\pstchip.dat!!!!!!F51!!!!
+S!@quadcoptor.schematic1(sch_1):ins3965@lib.\swd.normal\(chips)!SWD_HDR1X5_SWD!P2!.\pstchip.dat!!!!!!F50!!!!
+S!@quadcoptor.schematic1(sch_1):ins4294@lib.\usart.normal\(chips)!USART_HDR1X4_USART2!P3!.\pstchip.dat!!!!!!F49!!!!
+S!@quadcoptor.schematic1(sch_1):ins42776@lib.\usart.normal\(chips)!USART_HDR1X4_USART3!P4!.\pstchip.dat!!!!!!F48!!!!
+S!@quadcoptor.schematic1(sch_1):ins5092@lib.\header_5p.normal\(chips)!HEADER_5P_HDR1X5_HEADER_5P!P5!.\pstchip.dat!!!!!!F47!!!!
+S!@quadcoptor.schematic1(sch_1):ins5114@lib.\header_5p.normal\(chips)!HEADER_5P_HDR1X5_HEADER_5P!P6!.\pstchip.dat!!!!!!F46!!!!
+S!@quadcoptor.schematic1(sch_1):ins5814@lib.\2p.normal\(chips)!2P_HDR1X2_BAT!P7!.\pstchip.dat!!!!!!F45!!!!
+S!@quadcoptor.schematic1(sch_1):ins10090@lib.\si2302.normal\(chips)!SI2302_SOT-23-3_SI2302!Q1!.\pstchip.dat!!!!!!F44!!!!
+S!@quadcoptor.schematic1(sch_1):ins17788@lib.\si2302.normal\(chips)!SI2302_SOT-23-3_SI2302!Q2!.\pstchip.dat!!!!!!F43!!!!
+S!@quadcoptor.schematic1(sch_1):ins18141@lib.\si2302.normal\(chips)!SI2302_SOT-23-3_SI2302!Q3!.\pstchip.dat!!!!!!F42!!!!
+S!@quadcoptor.schematic1(sch_1):ins18506@lib.\si2302.normal\(chips)!SI2302_SOT-23-3_SI2302!Q4!.\pstchip.dat!!!!!!F41!!!!
+S!@quadcoptor.schematic1(sch_1):ins1789@discrete.\r.normal\(chips)!R_R0402_10K!R1!.\pstchip.dat!!!!!!F40!!!!
+S!@quadcoptor.schematic1(sch_1):ins10177@discrete.\r.normal\(chips)!R_R0402_10K!R16!.\pstchip.dat!!!!!!F39!!!!
+S!@quadcoptor.schematic1(sch_1):ins17822@discrete.\r.normal\(chips)!R_R0402_10K!R17!.\pstchip.dat!!!!!!F38!!!!
+S!@quadcoptor.schematic1(sch_1):ins18175@discrete.\r.normal\(chips)!R_R0402_10K!R18!.\pstchip.dat!!!!!!F37!!!!
+S!@quadcoptor.schematic1(sch_1):ins18540@discrete.\r.normal\(chips)!R_R0402_10K!R19!.\pstchip.dat!!!!!!F36!!!!
+S!@quadcoptor.schematic1(sch_1):ins3860@discrete.\r.normal\(chips)!R_R0402_10K!R2!.\pstchip.dat!!!!!!F35!!!!
+S!@quadcoptor.schematic1(sch_1):ins3645@discrete.\r.normal\(chips)!R_R0402_10K!R3!.\pstchip.dat!!!!!!F34!!!!
+S!@quadcoptor.schematic1(sch_1):ins114363@discrete.\r.normal\(chips)!R_R0402_0R,1%!R28!.\pstchip.dat!!!!!!F32!!!!
+S!@quadcoptor.schematic1(sch_1):ins8349@discrete.\r.normal\(chips)!R_R0402_0R,1%!R10!.\pstchip.dat!!!!!!F33!!!!
+S!@quadcoptor.schematic1(sch_1):ins8166@discrete.\r.normal\(chips)!R_R0402_0R,1%!R5!.\pstchip.dat!!!!!!F31!!!!
+S!@quadcoptor.schematic1(sch_1):ins8323@discrete.\r.normal\(chips)!R_R0402_0R,1%!R8!.\pstchip.dat!!!!!!F30!!!!
+S!@quadcoptor.schematic1(sch_1):ins7185@discrete.\r.normal\(chips)!R_R0402_10K,1%!R11!.\pstchip.dat!!!!!!F29!!!!
+S!@quadcoptor.schematic1(sch_1):ins17302@discrete.\r.normal\(chips)!R_R0402_100R!R12!.\pstchip.dat!!!!!!F28!!!!
+S!@quadcoptor.schematic1(sch_1):ins17706@discrete.\r.normal\(chips)!R_R0402_100R!R13!.\pstchip.dat!!!!!!F27!!!!
+S!@quadcoptor.schematic1(sch_1):ins18059@discrete.\r.normal\(chips)!R_R0402_100R!R14!.\pstchip.dat!!!!!!F26!!!!
+S!@quadcoptor.schematic1(sch_1):ins18424@discrete.\r.normal\(chips)!R_R0402_100R!R15!.\pstchip.dat!!!!!!F25!!!!
+S!@quadcoptor.schematic1(sch_1):ins12046@discrete.\r.normal\(chips)!R_R0402_331!R20!.\pstchip.dat!!!!!!F24!!!!
+S!@quadcoptor.schematic1(sch_1):ins13186@discrete.\r.normal\(chips)!R_R0402_331!R21!.\pstchip.dat!!!!!!F23!!!!
+S!@quadcoptor.schematic1(sch_1):ins44520@discrete.\r.normal\(chips)!R_R0402_331!R22!.\pstchip.dat!!!!!!F22!!!!
+S!@quadcoptor.schematic1(sch_1):ins13579@discrete.\r.normal\(chips)!R_R0402_4.7K!R23!.\pstchip.dat!!!!!!F21!!!!
+S!@quadcoptor.schematic1(sch_1):ins13595@discrete.\r.normal\(chips)!R_R0402_4.7K!R24!.\pstchip.dat!!!!!!F20!!!!
+S!@quadcoptor.schematic1(sch_1):ins31249@discrete.\r.normal\(chips)!R_R0402_0!R25!.\pstchip.dat!!!!!!F19!!!!
+S!@quadcoptor.schematic1(sch_1):ins31358@discrete.\r.normal\(chips)!R_R0402_0!R26!.\pstchip.dat!!!!!!F18!!!!
+S!@quadcoptor.schematic1(sch_1):ins32572@discrete.\r.normal\(chips)!R_R0402_22K!R27!.\pstchip.dat!!!!!!F17!!!!
+S!@quadcoptor.schematic1(sch_1):ins5967@discrete.\r.normal\(chips)!R_R0402_100K,1%!R4!.\pstchip.dat!!!!!!F16!!!!
+S!@quadcoptor.schematic1(sch_1):ins5983@discrete.\r.normal\(chips)!R_R0402_100K,1%!R6!.\pstchip.dat!!!!!!F15!!!!
+S!@quadcoptor.schematic1(sch_1):ins6535@discrete.\r.normal\(chips)!R_R0402_100K!R7!.\pstchip.dat!!!!!!F14!!!!
+S!@quadcoptor.schematic1(sch_1):ins7159@discrete.\r.normal\(chips)!R_R0402_73.2K,,1%!R9!.\pstchip.dat!!!!!!F13!!!!
+S!@quadcoptor.schematic1(sch_1):ins5869@lib.\switch_3p.normal\(chips)!SWITCH_3P_SWITCH_SK12D07VG3!S1!.\pstchip.dat!!!!!!F12!!!!
+S!@quadcoptor.schematic1(sch_1):ins41536@lib.\test.normal\(chips)!TEST_TEST_TEST!T1!.\pstchip.dat!!!!!!F11!!!!
+S!@quadcoptor.schematic1(sch_1):ins41578@lib.\test.normal\(chips)!TEST_TEST_TEST!T2!.\pstchip.dat!!!!!!F10!!!!
+S!@quadcoptor.schematic1(sch_1):ins41625@lib.\test.normal\(chips)!TEST_TEST_TEST!T3!.\pstchip.dat!!!!!!F9!!!!
+S!@quadcoptor.schematic1(sch_1):ins41664@lib.\test.normal\(chips)!TEST_TEST_TEST!T4!.\pstchip.dat!!!!!!F8!!!!
+S!@quadcoptor.schematic1(sch_1):ins132@quadcoptor.\stm32f103c8t6_2.normal\(chips)!STM32F103C8T6_2_QFP50P900X900X1!U1!.\pstchip.dat!!!!!!F7!!!!
+S!@quadcoptor.schematic1(sch_1):ins7503@quadcoptor.\ht7833_1.normal\(chips)!HT7833_1_SOT89_HT7833!U2!.\pstchip.dat!!!!!!F6!!!!
+S!@quadcoptor.schematic1(sch_1):ins6374@lib.\sx1308.normal\(chips)!SX1308_SOT23-6_SX1308!U3!.\pstchip.dat!!!!!!F5!!!!
+S!@quadcoptor.schematic1(sch_1):ins13450@quadcoptor.\mpu6050_0.normal\(chips)!MPU6050_0_QFN50P400X400X90-24N_!U4!.\pstchip.dat!!!!!!F4!!!!
+S!@quadcoptor.schematic1(sch_1):ins35215@lib.\fbm320.normal\(chips)!FBM320_LGA-8_FBM320!U5!.\pstchip.dat!!!!!!F3!!!!
+S!@quadcoptor.schematic1(sch_1):ins30569@quadcoptor.\si24r1_0.normal\(chips)!SI24R1_0_QFN50P400X400X90-20N_S!U6!.\pstchip.dat!!!!!!F2!!!!
+S!@quadcoptor.schematic1(sch_1):ins65260@lib.\osc.normal\(chips)!OSC_SMD5032_4P_RH08000474_8M!Y1!.\pstchip.dat!!!!!!F1!!!!
+S!@quadcoptor.schematic1(sch_1):ins30998@lib.\osc.normal\(chips)!OSC_SMD5032_4P_OSC_16M!Y2!.\pstchip.dat!!!!!!F0!!!!
