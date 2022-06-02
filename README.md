@@ -10,3 +10,4 @@
 此项目只包含四轴飞行器，遥控器相关见：https://oshwhub.com/ku-dian-ke-ji-guan/kai-yuan-si-zhou-yao-kong-qi   
 
 成品图片：  
+![5d5cd05dd3f2d76920af491bf9cb269](https://user-images.githubusercontent.com/70560862/171571352-d8ab85aa-813b-434f-9b7f-3bb0134cbcee.jpg)
